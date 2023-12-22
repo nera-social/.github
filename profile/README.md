@@ -1,7 +1,6 @@
 
 <img width="1356" alt="Screenshot 2023-12-22 at 3 05 48 PM" src="https://github.com/jive-dating/.github/assets/61725820/92c8e731-5089-40b1-b381-ffb07ff4aac0">
 
--- 
 
 ### Who are we?
 
