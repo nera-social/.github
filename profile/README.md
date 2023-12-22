@@ -1,5 +1,7 @@
 
-<img width="801" alt="PNG image" src="https://github.com/jive-dating/.github/assets/61725820/7bc73285-a9f0-4e50-bdb2-6c3c1ec6f4c5">
+![IMG_6187](https://github.com/jive-dating/.github/assets/61725820/661c11c9-b518-4b53-8dd3-40ed162d8d79)
+
+-- 
 
 ### Who are we?
 
@@ -13,4 +15,5 @@ In a world where online dating often emphasizes superficial interactions and end
 
 https://jive.dating
 
--->
+-- 
+
