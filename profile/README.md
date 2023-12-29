@@ -1,3 +1,5 @@
-# Jive's Mission
+# Our Mission
 
-In a world where online dating often emphasizes superficial interactions and endless swiping, Jive stands apart. At its core, our mission is to work towards a culture of genuine human connections. We want to foster real-world interactions and meaningful experiences while still making dating fun and encourage our users to explore beyond the first impression, and hope to provide a strong and robust platform to create a more authentic, playful, and meaningful way of finding love in the digital age.
+At Jive™, we recognize the paradox of modern connectivity — a world more connected than ever, yet filled with individuals feeling isolated. Our mission transcends the traditional boundaries of a dating app; we are a catalyst for a cultural movement. Drawing inspiration from the lively and authentic spirit of jazz-era dance, Jive is committed to revitalizing the digital dating landscape. We believe in fostering genuine connections, infusing the online dating experience with energy, authenticity, and the excitement of a spontaneous dance. Our foundation is built on the principle of making digital interactions as engaging and effortless as real-world connections. Join us on our journey to revolutionize modern dating culture, crafting unique love stories, one at a time.
+
+
